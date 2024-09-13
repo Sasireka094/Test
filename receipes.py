@@ -8,4 +8,5 @@ for in rane(10):
     Print(e)
   Finally:
     Print("closed")
+Print("Thank You")
     
